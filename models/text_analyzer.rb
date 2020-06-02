@@ -1,4 +1,5 @@
 # Your TextAnalyzer model code will go here.
+# comment for changes
 class TextAnalyzer
     attr_reader :text
    
